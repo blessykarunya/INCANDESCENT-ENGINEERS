@@ -12,5 +12,5 @@ IEEE-Govt-Techathon
     8.  Capture image of vehicle with lossless compression
     9.  Backend with error free integration facilities
     10. Provide a digitally signed certificate
-    11. Vehicle photograph.
+    11. Number plate photograph.
     12. Goal: to make software with easy UI

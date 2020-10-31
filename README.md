@@ -1,2 +1,14 @@
 # Vehicle-Fitness-Test-Model
 IEEE-Govt-Techathon
+
+## Functionalities of the model
+    1.  Data entry
+    2.  Detection of vehicle type based on wheels
+    3.  Detection of vehicle type based on fuel used
+    4.  Detection of damage
+    5.  Tracking location of commercial vehicles using GPS
+    6.  Checking of fair meter
+    7.  Accepting of output from devices that check it as input and processing them
+    8.  Capture image of vehicle with lossless compression
+    9.  Backend with error free integration facilities
+    10. Provide a digitally signed certificate

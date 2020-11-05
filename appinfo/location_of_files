@@ -1,1 +1,8 @@
-Source code
+Source Code directory:
+
+  It contains the source code to generate certificate (certificateGeneration.py) and extract text from number plate image (numberPlate_to_text.py)
+
+Tesseract-OCR directory:
+
+  It consists of the dependencies to run and execute to numberPlate_to_text.py
+  

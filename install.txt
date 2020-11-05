@@ -1,1 +1,27 @@
-#txt
+For extracting text from image, openCV and tesseract are required. If it is not already installed, it can be done by,
+
+For Windows:
+
+1. For OpenCV, pip install opencv-python
+
+2. For tesseract,
+
+  i. Open https://github.com/UB-Mannheim/tesseract/wiki
+  
+  ii. Use the link provided in ReadMe section for the installation of .exe file for 32 bit or 64 bit computers.
+  
+  iii. Run the downloaded .exe file.
+  
+  iv. Run the command, pip instsall pytesseract
+  
+  For Linux:
+  
+  1. For OpenCV, pip install opencv-python
+  
+  2. for tesseract, run the following code
+  
+    sudo apt-get update
+    
+    sudo apt-get install tesseract-ocr
+    
+    sudo apt-get install libtesseract-dev

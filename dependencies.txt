@@ -1,4 +1,6 @@
-1. Tesseract-OCR is a file the contains the necessary dependencies to execute the numberPlate.py file, as it has the necessary complex code ready in it.
-2. templateCertificate.png is the certificate template for the final Vehicle fitness certificate generation. The Fitness Certificate generated will have this template.
-3. times-new-roman.ttf file is a font style file for the purpose of certificate generation. The text printed with the certificate eill be in the style of Times New    Roman.
-4. userForm.xlsx file contains some duplicate information for certificate generation. The code prints the necessery information in the certificate from this file.
+<ol>
+<li>Tesseract-OCR is a file the contains the necessary dependencies to execute the numberPlate.py file, as it has the necessary complex code ready in it.
+<li>templateCertificate.png is the certificate template for the final Vehicle fitness certificate generation. The Fitness Certificate generated will have this template.
+<li>times-new-roman.ttf file is a font style file for the purpose of certificate generation. The text printed with the certificate eill be in the style of Times New    Roman.
+<li>userForm.xlsx file contains some duplicate information for certificate generation. The code prints the necessery information in the certificate from this file.
+</ol>

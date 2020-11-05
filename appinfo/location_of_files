@@ -6,3 +6,20 @@ Tesseract-OCR directory:
 
   It consists of the dependencies to run and execute to numberPlate_to_text.py
   
+car-damage-detection directory:
+  
+  
+
+misc directory:
+
+  It contains,
+  
+  i. A demo file to extract text from image (numberPlate_to_text_Demo.ipynb).
+  
+  ii. Image of the certificate template (templateCertificate.png).
+  
+  iii. A .ttf file for font style for the certificate (times-new-roman.ttf).
+  
+test directory:
+
+  It contains the test (duplicate) information (fake information) to be printed on certificate.

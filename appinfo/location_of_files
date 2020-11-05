@@ -8,7 +8,7 @@ Tesseract-OCR directory:
   
 car-damage-detection directory:
   
-  
+  It contains the code of the tensor flow model for detection of damage in cars from the pictures taken.
 
 misc directory:
 

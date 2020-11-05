@@ -1,7 +1,13 @@
 This part of the project, damage detection is done using Lobe. Lobe is a Microsoft acquired AI startup that provides a platform to implement code-free A.I. related functions.
 
-This application is made use of here. 
+This application is made use of here.
 
-Images are fed to the application and trained to detect damaged car parts.
+First the images are imported into the model and a label is given. The training then takes place automatically.
+
+Note: For the training to take place, there must at least be two labels
+
+Once the model is trained we can check if we get the desired output through the play option. If we don't get the desired output then we can correct it by telling under what label does that image come.
+
+The percentage of accuracy varies each time we import an image for training.
 
 Once the model is trained, we can give an image and detect the damaged carparts automatically with just the image as input.

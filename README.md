@@ -14,6 +14,3 @@ IEEE-Govt-Techathon
     10. Provide a digitally signed certificate
     11. Number plate photograph.
     12. Goal: to make software with easy UI
-
-## Tools to be used
-    1.  Lobe    -   For damage detection and vehicle type detection

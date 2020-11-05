@@ -14,3 +14,5 @@ IEEE-Govt-Techathon
     10. Provide a digitally signed certificate
     11. Number plate photograph.
     12. Goal: to make software with easy UI
+    
+P.S: This is not a fully functionable project. The interface part and the interdependant code are yet to be developed.

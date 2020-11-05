@@ -1,0 +1,1 @@
+#Tesseract-OCR is a file the contains the necessary dependencies to execute the numberPlate.py file.
